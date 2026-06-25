@@ -38,7 +38,6 @@ Thumbs.db
 *.swo
 *~
 .idea/
-.vscode/
 *.log
 
 data/
@@ -63,3 +62,7 @@ catalog.json
 site/sitemap.xml
 site/llms.txt
 site/build-meta.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
